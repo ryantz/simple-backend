@@ -1,0 +1,14 @@
+1) Organize routes: project structure, separate files n modules
+
+2) Create Route Files: in route folder, route files for different parts of application
+   eg user.js for user related routes and products.js for product related routes
+
+3) Import dependencies: eg Express or other required modules
+
+4) Define Routes: using Express etc.... eg responding to GET request
+
+5) Use routes in your application: include and use route files in main file
+
+6) Test routes: can test by sending HTTP requests to defind routes using Postman or just
+   open in web browser
+
